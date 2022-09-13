@@ -1,0 +1,3 @@
+text color: #403E40
+Header color: #f0f5f2
+Darker Header color: #c2d6ca
